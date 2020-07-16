@@ -1,6 +1,6 @@
 flows:
-  39349e56-8266-4221-b122-76cb2a85ef45: {ver: 1, file: File_System_Test_Flow.snapshot,
-    comments: '', author: anonymous, created: 1594869370389, flowName: File System
-      Test Flow, flowDesc: ''}
+  39349e56-8266-4221-b122-76cb2a85ef45: {ver: 2, file: File_System_Test_Flow.snapshot,
+    comments: added json convert, author: anonymous, created: 1594869709728, flowName: File
+      System Test Flow, flowDesc: ''}
 layoutVer: 1
 bucketId: 6874d1d1-0dab-4c5e-8eb8-273853ecdfd7
